@@ -47,19 +47,6 @@ img {
     width: 100%;
 }
 
-.logo img {
-    width: 10%;
-}
-
-.logo {
-    display: flex;
-    align-items: center;
-}
-
-.logo h3 {
-    margin: 2px 0 0 -10px;
-    font-size: 30px;
-}
 code, pre {
     background: #333;
     color: #fff;
