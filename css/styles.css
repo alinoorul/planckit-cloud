@@ -330,4 +330,7 @@ code, pre {
     .hero-form {
         width: 300px;
     }
+    .xl {
+        font-size: 3.5rem;
+    }
 }
